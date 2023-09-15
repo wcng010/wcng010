@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3121005146" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,17 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="3121005146.jar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/3121005146_jar/3121005146.jar" />
       <option name="PROGRAM_PARAMETERS" value="D:\txt\orig.txt D:\txt\orig_0.8_add.txt D:\write\output.txt" />
@@ -135,6 +124,7 @@
       <workItem from="1694754347362" duration="101000" />
       <workItem from="1694754545548" duration="175000" />
       <workItem from="1694754767510" duration="658000" />
+      <workItem from="1694757098675" duration="42000" />
     </task>
     <servers />
   </component>
@@ -170,10 +160,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="733" y="430" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1694754575630" />
-    <state x="629" y="362" key="FileChooserDialogImpl" timestamp="1694754565047">
+    <state x="629" y="362" key="FileChooserDialogImpl" timestamp="1694757139283">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="629" y="362" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1694754565047" />
+    <state x="629" y="362" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1694757139283" />
     <state width="1860" height="387" key="GridCell.Tab.0.bottom" timestamp="1694756337705">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
